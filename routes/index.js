@@ -38,3 +38,4 @@ router.get("/user/search", user.getUserByName);
 router.get("/user/:id", user.getUserById);
 
 module.exports = router;
+

@@ -23,3 +23,4 @@ const login = async () => {
         window.location.replace("the-game");
     }
 };
+

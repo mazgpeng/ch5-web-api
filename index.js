@@ -28,3 +28,4 @@ app.use(routes);
 app.listen(PORT, () => {
     console.log(chalk.blue(`Server is running on localhost:${PORT}`));
 });
+

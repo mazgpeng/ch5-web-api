@@ -30,3 +30,4 @@ const register = async () => {
         alert("You are registered");
     }
 };
+
