@@ -1,30 +1,30 @@
 [
-    {
-        "id": 1,
-        "name": "Admin",
-        "username": "Admin",
-        "email": "admin@gmail.com",
-        "password": "admin"
-    },
-    {
-        "name": "Feri",
-        "username": "Feri",
-        "email": "feri@gmail.com",
-        "password": "rahasia",
-        "id": 2
-    },
-    {
-        "name": "Maulana",
-        "username": "Maulana",
-        "email": "ferimaulana@gmail.com",
-        "password": "rahasia",
-        "id": 3
-    },
-    {
-        "name": "Binar",
-        "username": "Binar",
-        "email": "binar01@gmail.com",
-        "password": "rahasia",
-        "id": 4
-    }
+  {
+    "id": 1,
+    "name": "Admin",
+    "username": "Admin",
+    "email": "admin@gmail.com",
+    "password": "admin"
+  },
+  {
+    "name": "Feri",
+    "username": "Feri",
+    "email": "feri@gmail.com",
+    "password": "rahasia",
+    "id": 2
+  },
+  {
+    "name": "Maulana",
+    "username": "Maulana",
+    "email": "ferimaulana@gmail.com",
+    "password": "rahasia",
+    "id": 3
+  },
+  {
+    "name": "Binar",
+    "username": "Binar",
+    "email": "binar01@gmail.com",
+    "password": "rahasia",
+    "id": 4
+  }
 ]
